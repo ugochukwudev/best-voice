@@ -23,10 +23,15 @@ const Register = () => {
         data-aos-delay="400"
         className="text-[16px] font-medium tracking-[-0.5px] "
       >
-        Don't miss this opprtunity to profit from your gift and be part of a
-        great community of voice stars😊😊😊
+        {
+          "Don't miss this opprtunity to profit from your gift and be part of a great community of voice stars😊😊😊"
+        }
       </p>
-      <a href="https://wa.me/message/BPOREDXFWOTLD1" target="_blank">
+      <a
+        href="https://wa.me/message/BPOREDXFWOTLD1"
+        target="_blank"
+        rel="noreferrer"
+      >
         <button
           data-aos="fade-right"
           data-aos-offset="300"

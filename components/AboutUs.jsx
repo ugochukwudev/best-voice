@@ -30,7 +30,11 @@ const AboutUs = () => {
         giving you an opprtunity to meet and collaborate with other people with
         same mission as you .
       </p>
-      <a href="https://wa.me/message/BPOREDXFWOTLD1" target="_blank">
+      <a
+        href="https://wa.me/message/BPOREDXFWOTLD1"
+        target="_blank"
+        rel="noreferrer"
+      >
         <button
           data-aos="flip-right"
           data-aos-delay="450"

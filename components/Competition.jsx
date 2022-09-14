@@ -11,6 +11,9 @@ const Competition = () => {
       <p
         data-aos="zoom-in"
         data-aos-delay="300"
+        npm
+        run
+        buils
         className="text-xl  font-bold italic "
       >
         Join Our Latest Competiton
@@ -18,9 +21,9 @@ const Competition = () => {
       <p
         data-aos="zoom-in"
         data-aos-delay="350"
-        className="text-xl  font-semibold  "
+        className="text-xl  font-semibold"
       >
-        You're few clicks from winning our amazing prices 😉😉😉😉
+        {"You're few clicks from winning our amazing prices 😉😉😉😉"}
       </p>
       <code
         data-aos="zoom-in"
