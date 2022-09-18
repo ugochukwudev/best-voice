@@ -28,7 +28,7 @@ const Register = () => {
         }
       </p>
       <a
-        href="https://wa.me/message/BPOREDXFWOTLD1"
+        href="https://www.ugoweb.com.ng"
         target="_blank"
         rel="noreferrer"
       >
